@@ -1825,3 +1825,28 @@
 {"level":"info","message":"agent-4 shutting down...","service":"multi-agent-chat","timestamp":"2025-07-23T08:16:12.388Z"}
 {"level":"info","message":"agent-2 shutting down...","service":"multi-agent-chat","timestamp":"2025-07-23T08:16:12.388Z"}
 {"level":"info","message":"agent-1 shutting down...","service":"multi-agent-chat","timestamp":"2025-07-23T08:16:12.388Z"}
+{"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:00:35.654Z"}
+{"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:00:43.680Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:00:43.784Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:00:43.791Z"}
+{"level":"warn","message":"[retry] attempt 2/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:00:43.794Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (custom) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:00:43.811Z"}
+{"level":"warn","message":"[retry] attempt 1/2 failed (ETIMEDOUT) — retrying in 407ms","service":"mockprep","timestamp":"2026-06-05T15:00:43.820Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:01:11.154Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:01:11.162Z"}
+{"level":"warn","message":"[retry] attempt 2/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:01:11.164Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (custom) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:01:11.180Z"}
+{"level":"warn","message":"[retry] attempt 1/2 failed (ETIMEDOUT) — retrying in 251ms","service":"mockprep","timestamp":"2026-06-05T15:01:11.182Z"}
+{"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:01:11.346Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:25:23.745Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:25:23.751Z"}
+{"level":"warn","message":"[retry] attempt 2/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:25:23.753Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (custom) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:25:23.767Z"}
+{"level":"warn","message":"[retry] attempt 1/2 failed (ETIMEDOUT) — retrying in 425ms","service":"mockprep","timestamp":"2026-06-05T15:25:23.769Z"}
+{"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:25:23.855Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.747Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.755Z"}
+{"level":"warn","message":"[retry] attempt 2/3 failed (ECONNRESET) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.758Z"}
+{"level":"warn","message":"[retry] attempt 1/3 failed (custom) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.774Z"}
+{"level":"warn","message":"[retry] attempt 1/2 failed (ETIMEDOUT) — retrying in 55ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.777Z"}
+{"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:32:36.971Z"}
