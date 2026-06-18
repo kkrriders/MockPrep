@@ -1850,3 +1850,5 @@
 {"level":"warn","message":"[retry] attempt 1/3 failed (custom) — retrying in 0ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.774Z"}
 {"level":"warn","message":"[retry] attempt 1/2 failed (ETIMEDOUT) — retrying in 55ms","service":"mockprep","timestamp":"2026-06-05T15:32:36.777Z"}
 {"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:32:36.971Z"}
+{"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-15T15:36:58.319Z"}
+{"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-15T15:36:59.239Z"}
