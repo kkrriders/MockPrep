@@ -1852,3 +1852,8 @@
 {"level":"warn","message":"[decision-agent] AI call failed, defaulting to next_question: Groq 429","service":"mockprep","timestamp":"2026-06-05T15:32:36.971Z"}
 {"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-15T15:36:58.319Z"}
 {"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-15T15:36:59.239Z"}
+{"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-18T15:24:42.629Z"}
+{"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-18T15:24:42.781Z"}
+{"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-24T15:02:52.833Z"}
+{"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-24T15:02:54.186Z"}
+{"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-24T15:02:55.179Z"}
