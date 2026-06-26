@@ -1859,3 +1859,4 @@
 {"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-24T15:02:55.179Z"}
 {"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-24T16:34:49.998Z"}
 {"level":"warn","message":"[queue] REDIS_URL not set — scoring falls back to setImmediate","service":"mockprep","timestamp":"2026-06-24T16:34:50.677Z"}
+{"level":"warn","message":"REDIS_URL not set — rate limiters will use in-memory storage (not suitable for multi-instance deployments)","service":"mockprep","timestamp":"2026-06-26T10:57:04.302Z"}
